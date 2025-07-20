@@ -1,0 +1,15 @@
+# Core AI and ML Libraries
+onnxruntime
+ultralytics
+insightface
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+torch
+torchvision
+torchaudio
+
+# Core Computer Vision & Data Handling
+opencv-python
+numpy==2.2.6
+scikit-learn
+PyYAML
